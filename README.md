@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on Web and Mobile Based Projects
+- 💬 Ask me about Web Dev, App Dev, Backend Development
